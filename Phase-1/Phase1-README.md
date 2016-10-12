@@ -1,4 +1,4 @@
-# SpeedPerception / PHASE-1: Experiement, benchmark data and key results.
+# SpeedPerception / PHASE-1
 
 <b>Basics</b>:
 
