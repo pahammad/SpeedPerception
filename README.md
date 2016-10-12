@@ -1,4 +1,4 @@
-# SpeedPerception: Human end-user perception of web applications in the wild
+# SpeedPerception: End-user perception of web applications in the wild
 
 <b>SpeedPerception / About</b>: 
 
