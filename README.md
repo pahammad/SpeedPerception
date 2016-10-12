@@ -10,14 +10,14 @@ Our goal is to create a free, open-source, benchmark dataset to advance the syst
 
 <b>SpeedPerception / Team </b>: 
 
-Qingzhu (Clark) Gao - DS&ML team @ Instart Logic<br>
-Parvez Ahammad - DS&ML team @ Instart Logic<br>
-Prasenjit Dey - DS&ML team @ Instart Logic<br>
+Qingzhu (Clark) Gao - Data Scientist @ Instart Logic<br>
+Parvez Ahammad - Principal Engineer and Head of Data Science & Machine Learning @ Instart Logic<br>
+Prasenjit Dey - Software Engineer @ Instart Logic<br>
 
 <b>SpeedPerception / Collaborators </b>: 
 
-Pat Meenan - WebPagetest.org / Google<br>
-Estelle Weyl - Instart Logic<br>
+Pat Meenan - Staff Engineer @ Google / Creator of WebPagetest.org <br>
+Estelle Weyl - Open Web Evagelist @ Instart Logic<br>
 
 <b>SpeedPerception / Phase-1 </b>: 
 
