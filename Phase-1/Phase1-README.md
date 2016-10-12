@@ -2,7 +2,7 @@
 
 <b>Basics</b>:
 
-Source URLs: Internet Retailer top-500 list <br>
+<u>Source URLs</u>: Internet Retailer top-500 list <br>
 Web Performance Testing & Data Collection Framework: WebPagetest.org (for obtaining HAR files, videos, perf metrics etc.) <br>
 Time of Data Collection: June 2016 <br>
 Browser: Chrome <br>
