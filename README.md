@@ -2,11 +2,11 @@
 
 <b>SpeedPerception / About</b>: 
 
-SpeedPerception is a large-scale web performance crowdsourcing study focused on the perceived loading performance of above-the-fold content. Clearly, no one likes slow loading webpages. SpeedPerception is a study trying to understand what “slow” and “fast” mean to the human end-user and how these are affected by the structure of the web applications. Traditional web performance metrics defined in W3C standards focus on timing each process along the content delivery pipeline, such as Time to First Byte (TTFB) and Page Load Time. We want to tackle the web performance measurement challenge by looking at it from a different angle: one which puts user experience into focus. Since people primarily consume the web visually, we are focusing on the visual perception of the webpage loading process.<br>
+SpeedPerception is a large-scale web performance crowdsourcing study focused on the perceived loading performance of above-the-fold content. Clearly, no one likes slow loading webpages. SpeedPerception is a study trying to understand what “slow” and “fast” mean to the human end-user and how these perceptions are affected by the structure of the web applications. Traditional web performance metrics defined in W3C standards focus on timing each process along the content delivery pipeline, such as Time to First Byte (TTFB) and Page Load Time. We want to tackle the web performance measurement challenge by looking at it from a different angle: one which puts user experience into focus. Since people primarily consume the web visually, we are focusing on the visual perception of the webpage loading process.<br>
 
 <b>SpeedPerception / Goal</b>: 
 
-Our goal is to create a free, open-source, benchmark dataset to advance the systematic study of how human end-users perceive the webpage loading process: the above-the-fold rendering in particular. Our belief (and hope) is that such a benchmark can provide a quantitative basis to compare different algorithms and spur computer scientists to make progress on helping quantify perceived webpage performance. <br>
+Our goal is to create free, open-source, benchmark dataset(s) to advance the systematic study of how human end-users perceive the webpage loading process: the above-the-fold rendering in particular. Our belief (and hope) is that such a benchmark can provide a quantitative basis to compare different algorithms and spur computer scientists to make progress on helping quantify perceived webpage performance. <br>
 
 <b>SpeedPerception / Team </b>: 
 
