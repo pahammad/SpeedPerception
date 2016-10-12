@@ -16,7 +16,7 @@ Prasenjit Dey - Software Engineer @ Instart Logic<br>
 
 <b>SpeedPerception / Collaborators </b>: 
 
-Pat Meenan - Staff Engineer @ Google / Creator of WebPagetest.org <br>
+Pat Meenan - Staff Engineer @ Google / Creator of http://WebPagetest.org <br>
 Estelle Weyl - Open Web Evagelist @ Instart Logic<br>
 
 <b>SpeedPerception / Phase-1 </b>: 
