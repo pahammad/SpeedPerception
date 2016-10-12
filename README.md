@@ -2,7 +2,7 @@
 
 <b>SpeedPerception / About</b>: 
 
-SpeedPerception is a large-scale web performance crowdsourcing study focused on the perceived loading performance of above-the-fold content. Clearly, no one likes slow loading webpages. SpeedPerception is a study trying to understand what “slow” and “fast” mean to the human end-user and how it is affected by the structure of the web applications. Traditional web performance metrics defined in W3C standards focus on timing each process along the content delivery pipeline, such as Time to First Byte (TTFB) and Page Load Time. We want to tackle the web performance measurement challenge by looking at it from a different angle: one which puts user experience into focus. Since people primarily consume the web visually, we are focusing on the visual perception of the webpage loading process.<br>
+SpeedPerception is a large-scale web performance crowdsourcing study focused on the perceived loading performance of above-the-fold content. Clearly, no one likes slow loading webpages. SpeedPerception is a study trying to understand what “slow” and “fast” mean to the human end-user and how these are affected by the structure of the web applications. Traditional web performance metrics defined in W3C standards focus on timing each process along the content delivery pipeline, such as Time to First Byte (TTFB) and Page Load Time. We want to tackle the web performance measurement challenge by looking at it from a different angle: one which puts user experience into focus. Since people primarily consume the web visually, we are focusing on the visual perception of the webpage loading process.<br>
 
 <b>SpeedPerception / Goal</b>: 
 
