@@ -11,7 +11,7 @@ Our goal is to create a free, open-source, benchmark dataset to advance the syst
 <b>SpeedPerception / Team </b>: 
 
 Qingzhu (Clark) Gao - Data Scientist @ Instart Logic<br>
-Parvez Ahammad - Principal Engineer and Head of Data Science & Machine Learning @ Instart Logic<br>
+Parvez Ahammad - Head of Data Science & Machine Learning @ Instart Logic<br>
 Prasenjit Dey - Software Engineer @ Instart Logic<br>
 
 <b>SpeedPerception / Collaborators </b>: 
