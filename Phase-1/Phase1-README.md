@@ -14,6 +14,10 @@ PHASE-1 crowd-sourcing challenge was hosted at http://speedperception.meteorapp.
 PHASE-1 crowd sourcing duration: 28th July 2016 to 30th September 2016. <br>
 PHASE-1 results: https://github.com/pahammad/SpeedPerception/tree/master/Phase-1 <br>
 
+<b>Questions / Feedback ?</b>:
+
+Email: parvez@ieee.org (or) Twitter: @perceptPA <br>
+
 <b>Variables contained in the benchmark dataset</b>:
 
 
