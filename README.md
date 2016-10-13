@@ -1,4 +1,4 @@
-# SpeedPerception: Perceived UX of web apps in the wild
+# SpeedPerception: Studying perceived UX of web apps in the wild
 
 <b>SpeedPerception / About</b>: 
 
