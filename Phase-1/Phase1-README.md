@@ -27,7 +27,7 @@ PHASE-1 crowd sourcing duration: 28th July 2016 to 30th September 2016. <br>
 PHASE-1 results: https://github.com/pahammad/SpeedPerception/tree/master/Phase-1 <br>
 
 <b>Variables contained in the benchmark dataset</b>:
-Our SpeedPerception-Phase1 benchmark contains 4 files formatted in CSV (comma separated value) format and named accordinly as csv1, csv2, csv3 and csv4. Each of them contains data either the benchmark from crowdsourcing experiment, or measurements obtained from WPT (WebPagetest) on the sample urls. These data sets have been curated to better serve the analysis purpose. <br>
+Our SpeedPerception-Phase1 benchmark contains 4 files formatted in CSV (comma separated value) format and named accordinly as csv1, csv2, csv3 and csv4. Each of them contains data either from the crowdsourcing component, or measurements obtained from WPT (WebPagetest) on the sample urls. These data sets have been curated to better serve the analysis purpose. <br>
 
 <b>csv1.csv</b> (115 rows, 32 columns) <br>
 This file contains all webpage measurements from HAR. It is combined with application level metrics such as Page Load Time, Total Bytes Size, visual metrics such as SpeedIndex and RenderStart. It also contains some ad-hoc metrics such as _loadTime_image_size, which indicates the byte size of image has been loaded until the time of onLoad. The last column <b>uid</b> is an unique key for each of the sampled websites. 
