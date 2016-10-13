@@ -45,6 +45,8 @@ This file has all <b>valid (80% or higher on honeypot video pairs)</b> responses
 <b>csv4.csv</b> (2772 rows, 2 columns)) <br>
 This file is a simple tracking on the score of each participant for our honeypot mechanism. Each session contained 5 honeypot pairs, and a session is considered valid if the user makes no more than 1 mistake out of the 5 honeypot pairs.
 
+<b>Analysis Scripts</b>:
+There are two notebook scripts we provide here, one contains some helper functions and the other is the main analysis. You may copy the code to write your own .py file or you can use Jupyter Notebook to run our code. You can follow the instruction here to download, install and run Jupyter Notebook. http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html
 
 
 
