@@ -12,7 +12,7 @@ Network Speed: Cable <br>
 <b>SpeedPerception:PHASE-1 Benchmark Basics</b>:
 
 Total votes: 77482 <br>
-Total valid (80% or higher) votes: 58212 <br> 
+Total valid (h_score >=80%) votes: 58212 <br> 
 Number of Total sessions: 5444 <br>
 Number of Complete sessions: 2914 <br>
 Number of Valid sessions (h_score >=80%): 2772 <br>
