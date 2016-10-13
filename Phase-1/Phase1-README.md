@@ -1,5 +1,9 @@
 # SpeedPerception / PHASE-1
 
+<b>Slide deck with overview and a few preliminary insights</b>:
+
+https://github.com/pahammad/SpeedPerception/blob/master/Phase-1/2016_10_SpeedPerception_Phase1.pdf
+
 <b>Basics</b>:
 
 Source URLs: Internet Retailer top-500 list <br>
