@@ -1,4 +1,4 @@
-# SpeedPerception: Perceived UX of web apps in the wild
+# SpeedPerception: Perceived UX of Web Apps in the Wild
 
 <b>Slide deck with Phase-1 overview and a few preliminary insights</b>:
 
