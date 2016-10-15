@@ -1,0 +1,28 @@
+NOTE:
+
+All timer definitions are from WPT. The events are ordered in the same way the TTC pie-chart figure is ordered using medians of these timers.
+
+
+DEFINITIONS:
+
+Time to First Byte (TTFB): the time from the initial navigation until the first byte is received by the browser
+
+FirstPaint: a measurement reported by the browser itself about when it thinks it painted the first content. It is available from javascript and can be reported from the field. It is usually pretty accurate but sometimes it reports the time when the browser painted nothing but a blank screen.
+
+Render(startRender): the time from the start of the initial navigation until the first non-white content is painted. Measured by capturing video of the page load and looking at each frame for the first time the browser displays something other than a blank page. It can only be measured in a lab and is generally the most accurate measurement for it.
+
+
+DomContentLoad (DCL): time at which the DOM has been loaded by parsing the response
+
+
+Speed Index: the average time at which visible parts of the page are displayed. It measures how quickly the page contents are visually populated (where lower numbers are better).
+Note: There are two approaches to measurement page complete % now in WPT. Please see: https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index 
+
+
+PageLoadTime (onLoad): The Load Time is measured as the time from the start of the initial navigation until the beginning of the window load event (onload).
+
+
+Fully Loaded: time from the start of the initial navigation until there was 2 seconds of no network activity after Document Complete
+
+
+VisualComplete: the time from the start of the initial navigation until there is no visual process within above-the-fold content.
