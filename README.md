@@ -27,9 +27,9 @@ Estelle Weyl - Open Web Evangelist @ Instart Logic<br>
 
 Phase-1 results: https://github.com/pahammad/SpeedPerception/tree/master/Phase-1 <br>
 Phase-1 Web app code / Experimental Design Criteria: https://github.com/pdey/SpeedPerceptionApp  <br>
-Phase-1 crowd-sourcing challenge was hosted at http://speedperception.meteorapp.com/ <br>
+Phase-1 crowd-sourcing challenge was hosted at http://speedperception.com/ <br>
 Phase-1 crowd sourcing duration: 28th July 2016 to 30th September 2016. <br>
 
-<b>Slide deck with Phase-1 overview and a few preliminary insights</b>:
+<b>Paper draft with Phase-1 overview and a few preliminary insights</b>:
 
-https://github.com/pahammad/SpeedPerception/blob/master/Phase-1/2016_10_SpeedPerception_Phase1.pdf
+https://arxiv.org/abs/1704.01220
