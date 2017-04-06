@@ -1,8 +1,8 @@
 # SpeedPerception / PHASE-1
 
-<b>Slide deck with overview and a few preliminary insights</b>:
+<b>Paper with overview and some key insights</b>:
 
-https://github.com/pahammad/SpeedPerception/blob/master/Phase-1/2016_10_SpeedPerception_Phase1.pdf
+https://arxiv.org/abs/1704.01220
 
 <b>Basics</b>:
 
