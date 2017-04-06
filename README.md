@@ -2,7 +2,7 @@
 
 <b>SpeedPerception / Latest Updates</b>: 
 
-SpeedPerception Phase2 will go live soon. URL for the challenge: http://speedperception.meteorapp.com/
+SpeedPerception Phase2 will go live soon. URL for the challenge: http://speedperception.com/
 
 <b>SpeedPerception / About</b>: 
 
