@@ -2,7 +2,10 @@
 
 <b>SpeedPerception / Latest Updates</b>: 
 
-SpeedPerception Phase2 will go live soon. URL for the challenge: http://speedperception.com/
+SpeedPerception Phase2 is live now. URL for the challenge: http://speedperception.com/
+
+* SpeedPerception Phase-1 looked at IR-500 / Chrome / Desktop
+* SpeedPerception Phase-2 is looking at IR-500 + Alexa-1000 / Chrome / ChromeMobile / Desktop / Mobile
 
 <b>SpeedPerception / About</b>: 
 
