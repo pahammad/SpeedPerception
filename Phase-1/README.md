@@ -26,7 +26,7 @@ Number of Incomplete sessions: 2530 <br>
 <b>Additional Information</b>:
 
 PHASE-1 Web app code / Experimental Design Criteria: https://github.com/pdey/SpeedPerceptionApp <br>
-PHASE-1 crowd-sourcing challenge was hosted at http://speedperception.meteorapp.com/ <br>
+PHASE-1 crowd-sourcing challenge was hosted at http://speedperception.com/ <br>
 PHASE-1 crowd sourcing duration: 28th July 2016 to 30th September 2016. <br>
 PHASE-1 results: https://github.com/pahammad/SpeedPerception/tree/master/Phase-1 <br>
 
