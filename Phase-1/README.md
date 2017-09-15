@@ -2,7 +2,7 @@
 
 <b>Paper with overview and some key insights</b>:
 
-https://arxiv.org/abs/1704.01220
+http://dl.acm.org/citation.cfm?id=3098606
 
 <b>Basics</b>:
 
