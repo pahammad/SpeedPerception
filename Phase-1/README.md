@@ -46,7 +46,7 @@ This file has all <b>valid (80% or higher on honeypot video pairs)</b> responses
 This file is a simple tracking on the score of each participant for our honeypot mechanism. Each session contained 5 honeypot pairs, and a session is considered valid if the user makes no more than 1 mistake out of the 5 honeypot pairs.
 
 <b>csv5_SIandPSI.csv</b> (160 rows, 5 columns)) <br>
-Refer to https://arxiv.org/abs/1704.01220 for results using modified SI/PSI using onLoad and TTC (time to click) as the cut-off points for the SI/PSI integrals.
+Refer to http://dl.acm.org/citation.cfm?id=3098606 for results using modified SI/PSI using onLoad and TTC (time to click) as the cut-off points for the SI/PSI integrals.
 
 <b>Analysis Scripts</b>:
 There are two notebook scripts we provide here, one contains some helper functions and the other is the main analysis. You may copy the code to write your own .py file or you can use Jupyter Notebook to run our code. You can follow the instruction here to download, install and run Jupyter Notebook. http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html
