@@ -7,7 +7,7 @@ SpeedPerception Phase2 is live now. URL for the challenge: http://speedperceptio
 * SpeedPerception Phase-2 is looking at IR-500 + Alexa-1000 / Chrome / ChromeMobile / Desktop / Mobile
 * SpeedPerception Phase-1 looked at IR-500 / Chrome / Desktop
 
-<b> Phase-1 overview and a few key insights </b>: https://arxiv.org/abs/1704.01220
+<b> Phase-1 overview and a few key insights </b>: http://dl.acm.org/citation.cfm?id=3098606
 
 <b>What is SpeedPerception?</b>: 
 
